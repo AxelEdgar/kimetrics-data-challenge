@@ -1,0 +1,126 @@
+id_producto,sku,nombre_producto,marca,categoria,subcategoria,precio_sugerido
+1,SKU1001,Lala Leche Deslactosada,Lala,Lacteos,Leche,22.35
+2,SKU1002,Lala Yogurt Natural,Lala,Lacteos,Yogurt,32.71
+3,SKU1003,Lala Leche Natural,Lala,Lacteos,Leche,21.56
+4,SKU1004,Danone Crema Natural,Danone,Lacteos,Crema,31.84
+5,SKU1005,Nestle Crema Light,Nestle,Lacteos,Crema,28.48
+6,SKU1006,Lala Quesos Light,Lala,Lacteos,Quesos,35.94
+7,SKU1007,Santa Clara Quesos Light,Santa Clara,Lacteos,Quesos,21.46
+8,SKU1008,Lala Quesos Natural,Lala,Lacteos,Quesos,26.4
+9,SKU1009,Santa Clara Quesos Deslactosada,Santa Clara,Lacteos,Quesos,39.21
+10,SKU1010,Danone Mantequilla Natural,Danone,Lacteos,Mantequilla,44.19
+11,SKU1011,Lala Mantequilla Deslactosada,Lala,Lacteos,Mantequilla,39.88
+12,SKU1012,Santa Clara Crema Light,Santa Clara,Lacteos,Crema,36.14
+13,SKU1013,Alpura Leche Deslactosada,Alpura,Lacteos,Leche,44.56
+14,SKU1014,Lala Yogurt Entera,Lala,Lacteos,Yogurt,23.34
+15,SKU1015,Alpura Quesos Deslactosada,Alpura,Lacteos,Quesos,25.66
+16,SKU1016,Coca-Cola Agua 355ml,Coca-Cola,Bebidas,Agua,22.42
+17,SKU1017,Pepsi Jugos 2L,Pepsi,Bebidas,Jugos,18.25
+18,SKU1018,Pepsi Cafe 1L,Pepsi,Bebidas,Cafe,30.76
+19,SKU1019,Pepsi Refrescos 600ml,Pepsi,Bebidas,Refrescos,29.74
+20,SKU1020,Jumex Bebidas Energeticas 600ml,Jumex,Bebidas,Bebidas Energeticas,13.7
+21,SKU1021,Jumex Cafe 355ml,Jumex,Bebidas,Cafe,25.7
+22,SKU1022,Del Valle Bebidas Energeticas 355ml,Del Valle,Bebidas,Bebidas Energeticas,15.15
+23,SKU1023,Boing Jugos 1L,Boing,Bebidas,Jugos,28.17
+24,SKU1024,Boing Bebidas Energeticas 2L,Boing,Bebidas,Bebidas Energeticas,17.77
+25,SKU1025,Boing Jugos 2L,Boing,Bebidas,Jugos,10.45
+26,SKU1026,Coca-Cola Refrescos 355ml,Coca-Cola,Bebidas,Refrescos,24.94
+27,SKU1027,Boing Bebidas Energeticas 600ml,Boing,Bebidas,Bebidas Energeticas,18.39
+28,SKU1028,Del Valle Cafe 1L,Del Valle,Bebidas,Cafe,34.22
+29,SKU1029,Coca-Cola Refrescos 1L,Coca-Cola,Bebidas,Refrescos,28.75
+30,SKU1030,Coca-Cola Agua 1L,Coca-Cola,Bebidas,Agua,19.74
+31,SKU1031,Sabritas Chocolates Familiar,Sabritas,Snacks,Chocolates,24.44
+32,SKU1032,Ricolino Galletas Original,Ricolino,Snacks,Galletas,22.41
+33,SKU1033,Ricolino Dulces Picante,Ricolino,Snacks,Dulces,8.06
+34,SKU1034,Ricolino Galletas Original,Ricolino,Snacks,Galletas,16.98
+35,SKU1035,Sabritas Chocolates Original,Sabritas,Snacks,Chocolates,23.58
+36,SKU1036,Barcel Dulces Original,Barcel,Snacks,Dulces,9.82
+37,SKU1037,Sabritas Frutos Secos Original,Sabritas,Snacks,Frutos Secos,19.64
+38,SKU1038,Ricolino Papas Picante,Ricolino,Snacks,Papas,7.57
+39,SKU1039,Ricolino Chocolates Picante,Ricolino,Snacks,Chocolates,10.3
+40,SKU1040,Marinela Frutos Secos Picante,Marinela,Snacks,Frutos Secos,23.58
+41,SKU1041,Gamesa Galletas Individual,Gamesa,Snacks,Galletas,24.9
+42,SKU1042,Marinela Dulces Individual,Marinela,Snacks,Dulces,7.42
+43,SKU1043,Sabritas Galletas Familiar,Sabritas,Snacks,Galletas,5.42
+44,SKU1044,Barcel Frutos Secos Picante,Barcel,Snacks,Frutos Secos,5.14
+45,SKU1045,Barcel Papas Original,Barcel,Snacks,Papas,23.11
+46,SKU1046,Bimbo Tortillas Premium,Bimbo,Pan,Tortillas,11.74
+47,SKU1047,Oroweat Tortillas Premium,Oroweat,Pan,Tortillas,6.64
+48,SKU1048,Artesanal Pan Salado Premium,Artesanal,Pan,Pan Salado,12.8
+49,SKU1049,Oroweat Pan Salado Premium,Oroweat,Pan,Pan Salado,16.73
+50,SKU1050,Bimbo Pan Salado Premium,Bimbo,Pan,Pan Salado,4.65
+51,SKU1051,Tia Rosa Pasteles Premium,Tia Rosa,Pan,Pasteles,10.2
+52,SKU1052,Bimbo Pasteles Premium,Bimbo,Pan,Pasteles,14.45
+53,SKU1053,Bimbo Pan Dulce Premium,Bimbo,Pan,Pan Dulce,9.84
+54,SKU1054,Bimbo Tortillas Premium,Bimbo,Pan,Tortillas,7.23
+55,SKU1055,Artesanal Pan Salado Premium,Artesanal,Pan,Pan Salado,10.63
+56,SKU1056,Wonder Pasteles Premium,Wonder,Pan,Pasteles,7.74
+57,SKU1057,Bimbo Pan Salado Premium,Bimbo,Pan,Pan Salado,10.53
+58,SKU1058,Bimbo Bolleria Premium,Bimbo,Pan,Bolleria,3.86
+59,SKU1059,Bimbo Bolleria Premium,Bimbo,Pan,Bolleria,19.47
+60,SKU1060,Wonder Pan Salado Premium,Wonder,Pan,Pan Salado,9.91
+61,SKU1061,Green Giant Hierbas Premium,Green Giant,Verduras,Hierbas,35.94
+62,SKU1062,Green Giant Verduras Frescas Premium,Green Giant,Verduras,Verduras Frescas,21.37
+63,SKU1063,Local Hierbas Premium,Local,Verduras,Hierbas,37.8
+64,SKU1064,Local Hierbas Premium,Local,Verduras,Hierbas,22.69
+65,SKU1065,Green Giant Hierbas Premium,Green Giant,Verduras,Hierbas,15.7
+66,SKU1066,Del Monte Verduras Congeladas Premium,Del Monte,Verduras,Verduras Congeladas,27.38
+67,SKU1067,Local Verduras Frescas Premium,Local,Verduras,Verduras Frescas,11.71
+68,SKU1068,Fresh Hierbas Premium,Fresh,Verduras,Hierbas,37.58
+69,SKU1069,Del Monte Verduras Congeladas Premium,Del Monte,Verduras,Verduras Congeladas,38.82
+70,SKU1070,Green Giant Verduras Frescas Premium,Green Giant,Verduras,Verduras Frescas,12.06
+71,SKU1071,Green Giant Verduras Frescas Premium,Green Giant,Verduras,Verduras Frescas,22.11
+72,SKU1072,Fresh Verduras Congeladas Premium,Fresh,Verduras,Verduras Congeladas,27.84
+73,SKU1073,Organico Verduras Frescas Premium,Organico,Verduras,Verduras Frescas,29.72
+74,SKU1074,Local Ensaladas Premium,Local,Verduras,Ensaladas,16.13
+75,SKU1075,Green Giant Ensaladas Premium,Green Giant,Verduras,Ensaladas,17.97
+76,SKU1076,Colgate Limpieza Hogar Premium,Colgate,Higiene,Limpieza Hogar,47.43
+77,SKU1077,P&G Cuidado Personal Premium,P&G,Higiene,Cuidado Personal,47.5
+78,SKU1078,P&G Cuidado Personal Premium,P&G,Higiene,Cuidado Personal,52.26
+79,SKU1079,Unilever Cuidado Bebe Premium,Unilever,Higiene,Cuidado Bebe,76.0
+80,SKU1080,Unilever Cuidado Personal Premium,Unilever,Higiene,Cuidado Personal,42.17
+81,SKU1081,Johnson Limpieza Hogar Premium,Johnson,Higiene,Limpieza Hogar,70.02
+82,SKU1082,Nivea Cuidado Bebe Premium,Nivea,Higiene,Cuidado Bebe,79.03
+83,SKU1083,Nivea Cuidado Personal Premium,Nivea,Higiene,Cuidado Personal,37.96
+84,SKU1084,Unilever Cuidado Personal Premium,Unilever,Higiene,Cuidado Personal,35.87
+85,SKU1085,Nivea Cuidado Personal Premium,Nivea,Higiene,Cuidado Personal,29.33
+86,SKU1086,Nivea Cuidado Bebe Premium,Nivea,Higiene,Cuidado Bebe,32.64
+87,SKU1087,Unilever Cuidado Bebe Premium,Unilever,Higiene,Cuidado Bebe,61.25
+88,SKU1088,Nivea Cuidado Bebe Premium,Nivea,Higiene,Cuidado Bebe,49.31
+89,SKU1089,P&G Cuidado Personal Premium,P&G,Higiene,Cuidado Personal,58.06
+90,SKU1090,P&G Cuidado Bebe Premium,P&G,Higiene,Cuidado Bebe,20.21
+91,SKU1091,Sukarne Pollo Premium,Sukarne,Carnes,Pollo,74.24
+92,SKU1092,Local Pescado Premium,Local,Carnes,Pescado,155.85
+93,SKU1093,Pilgrims Embutidos Premium,Pilgrims,Carnes,Embutidos,66.78
+94,SKU1094,Local Pollo Premium,Local,Carnes,Pollo,55.4
+95,SKU1095,Local Cerdo Premium,Local,Carnes,Cerdo,132.88
+96,SKU1096,Bachoco Pescado Premium,Bachoco,Carnes,Pescado,56.27
+97,SKU1097,Pilgrims Cerdo Premium,Pilgrims,Carnes,Cerdo,184.84
+98,SKU1098,Bachoco Pollo Premium,Bachoco,Carnes,Pollo,150.04
+99,SKU1099,Local Cerdo Premium,Local,Carnes,Cerdo,182.62
+100,SKU1100,Local Pescado Premium,Local,Carnes,Pescado,162.42
+101,SKU1101,Bachoco Pollo Premium,Bachoco,Carnes,Pollo,196.43
+102,SKU1102,San Rafael Pollo Premium,San Rafael,Carnes,Pollo,53.72
+103,SKU1103,San Rafael Cerdo Premium,San Rafael,Carnes,Cerdo,170.34
+104,SKU1104,Sukarne Pollo Premium,Sukarne,Carnes,Pollo,73.88
+105,SKU1105,San Rafael Res Premium,San Rafael,Carnes,Res,180.83
+106,SKU1106,Herdez Condimentos Premium,Herdez,Abarrotes,Condimentos,16.38
+107,SKU1107,McCormick Condimentos Premium,McCormick,Abarrotes,Condimentos,20.82
+108,SKU1108,Herdez Granos Premium,Herdez,Abarrotes,Granos,8.99
+109,SKU1109,Knorr Granos Premium,Knorr,Abarrotes,Granos,21.79
+110,SKU1110,McCormick Enlatados Premium,McCormick,Abarrotes,Enlatados,22.75
+111,SKU1111,Knorr Pasta Premium,Knorr,Abarrotes,Pasta,36.54
+112,SKU1112,McCormick Pasta Premium,McCormick,Abarrotes,Pasta,47.45
+113,SKU1113,McCormick Enlatados Premium,McCormick,Abarrotes,Enlatados,15.5
+114,SKU1114,La Costena Aceites Premium,La Costena,Abarrotes,Aceites,12.55
+115,SKU1115,McCormick Condimentos Premium,McCormick,Abarrotes,Condimentos,38.6
+116,SKU1116,Knorr Aceites Premium,Knorr,Abarrotes,Aceites,33.46
+117,SKU1117,La Costena Pasta Premium,La Costena,Abarrotes,Pasta,24.18
+118,SKU1118,Herdez Pasta Premium,Herdez,Abarrotes,Pasta,18.7
+119,SKU1119,La Costena Condimentos Premium,La Costena,Abarrotes,Condimentos,29.84
+120,SKU1120,Herdez Pasta Premium,Herdez,Abarrotes,Pasta,23.3
+121,SKU1121,Boing Agua Extra,Boing,Bebidas,Agua,38.25
+122,SKU1122,Boing Agua Extra,Boing,Bebidas,Agua,37.84
+123,SKU1123,San Rafael Cerdo Extra,San Rafael,Carnes,Cerdo,72.75
+124,SKU1124,Marinela Galletas Extra,Marinela,Snacks,Galletas,69.84
+125,SKU1125,Local Pollo Extra,Local,Carnes,Pollo,61.22

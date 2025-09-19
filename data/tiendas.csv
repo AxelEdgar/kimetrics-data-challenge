@@ -1,0 +1,326 @@
+id_tienda,codigo_tienda,nombre_tienda,cadena,formato,region,ciudad,estado,superficie_m2,fecha_apertura
+1,T1001,CompraFácil Juarez,CompraFácil,Super,Centro,Juarez,Nuevo León,1680,2019-03-26
+2,T1002,TiendaFresh Juarez,TiendaFresh,Convenience,Este,Juarez,Puebla,180,2017-12-16
+3,T1003,CompraFácil San Luis Potosi,CompraFácil,Express,Bajío,San Luis Potosi,CDMX,727,2023-03-05
+4,T1004,TiendaFresh San Luis Potosi,TiendaFresh,Super,Sur,San Luis Potosi,Guanajuato,1260,2023-07-22
+5,T1005,MercadoPlus Torreon,MercadoPlus,Express,Norte,Torreon,CDMX,686,2016-12-18
+6,T1006,SuperMax Tlalnepantla,SuperMax,Convenience,Este,Tlalnepantla,Guanajuato,99,2018-10-13
+7,T1007,CompraFácil Tijuana,CompraFácil,Convenience,Este,Tijuana,Jalisco,51,2022-07-03
+8,T1008,SuperMax Culiacan,SuperMax,Convenience,Sur,Culiacan,Jalisco,168,2019-04-17
+9,T1009,SuperMax Tijuana,SuperMax,Express,Norte,Tijuana,Puebla,675,2023-04-02
+10,T1010,TiendaFresh Culiacan,TiendaFresh,Convenience,Oeste,Culiacan,Michoacán,159,2021-04-18
+11,T1011,CompraFácil Mexicali,CompraFácil,Express,Bajío,Mexicali,Michoacán,660,2016-06-23
+12,T1012,TiendaFresh Culiacan,TiendaFresh,Express,Bajío,Culiacan,Nuevo León,696,2024-03-26
+13,T1013,MercadoPlus San Luis Potosi,MercadoPlus,Hiper,Este,San Luis Potosi,CDMX,2960,2019-12-17
+14,T1014,TiendaFresh Monterrey,TiendaFresh,Hiper,Centro,Monterrey,Veracruz,2566,2016-10-20
+15,T1015,MercadoPlus Tijuana,MercadoPlus,Express,Este,Tijuana,Guanajuato,419,2019-09-29
+16,T1016,SuperMax Acapulco,SuperMax,Convenience,Este,Acapulco,Nuevo León,169,2018-12-07
+17,T1017,CompraFácil Saltillo,CompraFácil,Super,Sur,Saltillo,Michoacán,1597,2022-08-18
+18,T1018,SuperMax Aguascalientes,SuperMax,Convenience,Este,Aguascalientes,CDMX,126,2020-11-14
+19,T1019,CompraFácil Acapulco,CompraFácil,Convenience,Oeste,Acapulco,Guanajuato,106,2021-08-20
+20,T1020,CompraFácil Mexicali,CompraFácil,Express,Centro,Mexicali,Puebla,229,2019-09-16
+21,T1021,CompraFácil Morelia,CompraFácil,Hiper,Bajío,Morelia,Guanajuato,4966,2016-05-26
+22,T1022,MercadoPlus Acapulco,MercadoPlus,Convenience,Sur,Acapulco,Veracruz,56,2018-01-17
+23,T1023,CompraFácil Saltillo,CompraFácil,Super,Norte,Saltillo,Guanajuato,1077,2018-03-08
+24,T1024,CompraFácil Morelia,CompraFácil,Express,Norte,Morelia,Nuevo León,535,2020-07-15
+25,T1025,MercadoPlus Morelia,MercadoPlus,Convenience,Centro,Morelia,Nuevo León,121,2021-02-03
+26,T1026,CompraFácil Mexico DF,CompraFácil,Hiper,Norte,Mexico DF,Puebla,4209,2019-09-20
+27,T1027,SuperMax Monterrey,SuperMax,Hiper,Sur,Monterrey,Guanajuato,4669,2017-04-28
+28,T1028,SuperMax Mexico DF,SuperMax,Super,Sur,Mexico DF,Jalisco,1112,2021-12-30
+29,T1029,MercadoPlus Puebla,MercadoPlus,Express,Este,Puebla,Guanajuato,777,2018-07-17
+30,T1030,MercadoPlus Aguascalientes,MercadoPlus,Convenience,Bajío,Aguascalientes,Nuevo León,92,2023-03-18
+31,T1031,SuperMax Tlalnepantla,SuperMax,Express,Centro,Tlalnepantla,CDMX,226,2022-10-16
+32,T1032,TiendaFresh Juarez,TiendaFresh,Convenience,Este,Juarez,Guanajuato,69,2019-10-13
+33,T1033,MercadoPlus San Luis Potosi,MercadoPlus,Super,Bajío,San Luis Potosi,Michoacán,1047,2023-11-16
+34,T1034,SuperMax Aguascalientes,SuperMax,Hiper,Oeste,Aguascalientes,Puebla,2282,2022-06-23
+35,T1035,TiendaFresh Mexicali,TiendaFresh,Super,Este,Mexicali,Michoacán,1016,2021-04-07
+36,T1036,CompraFácil Hermosillo,CompraFácil,Hiper,Bajío,Hermosillo,Michoacán,4897,2020-09-11
+37,T1037,MercadoPlus Culiacan,MercadoPlus,Convenience,Sur,Culiacan,Guanajuato,119,2024-08-18
+38,T1038,CompraFácil Tlalnepantla,CompraFácil,Convenience,Este,Tlalnepantla,Michoacán,118,2020-11-25
+39,T1039,TiendaFresh Hermosillo,TiendaFresh,Express,Norte,Hermosillo,Nuevo León,449,2019-02-15
+40,T1040,CompraFácil Mexicali,CompraFácil,Convenience,Centro,Mexicali,CDMX,133,2022-05-22
+41,T1041,MercadoPlus Queretaro,MercadoPlus,Convenience,Sur,Queretaro,Nuevo León,137,2020-10-05
+42,T1042,TiendaFresh Culiacan,TiendaFresh,Hiper,Oeste,Culiacan,CDMX,2782,2017-07-10
+43,T1043,SuperMax Mexicali,SuperMax,Express,Bajío,Mexicali,Puebla,768,2022-03-31
+44,T1044,MercadoPlus Mexicali,MercadoPlus,Convenience,Bajío,Mexicali,Guanajuato,164,2021-03-18
+45,T1045,SuperMax Morelia,SuperMax,Super,Centro,Morelia,Jalisco,1298,2017-06-10
+46,T1046,TiendaFresh Culiacan,TiendaFresh,Hiper,Este,Culiacan,Veracruz,3408,2018-03-06
+47,T1047,CompraFácil Hermosillo,CompraFácil,Hiper,Centro,Hermosillo,Guanajuato,3109,2021-07-24
+48,T1048,TiendaFresh Juarez,TiendaFresh,Hiper,Sur,Juarez,CDMX,3292,2020-05-27
+49,T1049,SuperMax Mexicali,SuperMax,Express,Sur,Mexicali,Jalisco,483,2022-09-25
+50,T1050,TiendaFresh Torreon,TiendaFresh,Super,Sur,Torreon,Nuevo León,1539,2016-12-21
+51,T1051,MercadoPlus Acapulco,MercadoPlus,Hiper,Norte,Acapulco,Guanajuato,2518,2018-08-12
+52,T1052,TiendaFresh San Luis Potosi,TiendaFresh,Super,Norte,San Luis Potosi,Veracruz,1058,2020-11-08
+53,T1053,CompraFácil San Luis Potosi,CompraFácil,Super,Norte,San Luis Potosi,Veracruz,1761,2020-06-19
+54,T1054,CompraFácil Guadalajara,CompraFácil,Convenience,Centro,Guadalajara,Jalisco,114,2022-11-04
+55,T1055,CompraFácil Mexicali,CompraFácil,Super,Norte,Mexicali,Puebla,951,2020-07-29
+56,T1056,SuperMax Tlalnepantla,SuperMax,Express,Sur,Tlalnepantla,Michoacán,511,2022-08-21
+57,T1057,SuperMax Saltillo,SuperMax,Express,Norte,Saltillo,Veracruz,431,2020-06-03
+58,T1058,CompraFácil Tlalnepantla,CompraFácil,Convenience,Este,Tlalnepantla,Nuevo León,159,2017-10-06
+59,T1059,TiendaFresh Puebla,TiendaFresh,Super,Oeste,Puebla,Guanajuato,1225,2019-04-12
+60,T1060,MercadoPlus Leon,MercadoPlus,Hiper,Bajío,Leon,CDMX,2982,2017-05-28
+61,T1061,MercadoPlus Saltillo,MercadoPlus,Super,Sur,Saltillo,CDMX,1722,2016-08-28
+62,T1062,CompraFácil San Luis Potosi,CompraFácil,Hiper,Norte,San Luis Potosi,Jalisco,4895,2018-08-08
+63,T1063,TiendaFresh Torreon,TiendaFresh,Convenience,Norte,Torreon,Guanajuato,117,2021-03-31
+64,T1064,MercadoPlus Torreon,MercadoPlus,Convenience,Norte,Torreon,Veracruz,88,2016-09-20
+65,T1065,TiendaFresh Leon,TiendaFresh,Express,Norte,Leon,CDMX,514,2019-02-04
+66,T1066,TiendaFresh San Luis Potosi,TiendaFresh,Convenience,Norte,San Luis Potosi,Puebla,153,2019-04-08
+67,T1067,TiendaFresh Cancun,TiendaFresh,Convenience,Este,Cancun,CDMX,60,2020-01-30
+68,T1068,CompraFácil Mexico DF,CompraFácil,Hiper,Oeste,Mexico DF,Nuevo León,2374,2024-04-29
+69,T1069,MercadoPlus Queretaro,MercadoPlus,Super,Bajío,Queretaro,Michoacán,1980,2018-09-07
+70,T1070,SuperMax Hermosillo,SuperMax,Express,Este,Hermosillo,Veracruz,484,2020-06-05
+71,T1071,MercadoPlus Mexicali,MercadoPlus,Convenience,Bajío,Mexicali,Michoacán,73,2019-10-03
+72,T1072,CompraFácil Merida,CompraFácil,Hiper,Este,Merida,Nuevo León,4744,2019-01-11
+73,T1073,SuperMax Mexicali,SuperMax,Express,Centro,Mexicali,Puebla,495,2019-08-08
+74,T1074,CompraFácil Merida,CompraFácil,Super,Este,Merida,CDMX,1316,2021-02-23
+75,T1075,TiendaFresh Culiacan,TiendaFresh,Super,Este,Culiacan,Michoacán,802,2020-07-03
+76,T1076,CompraFácil Culiacan,CompraFácil,Convenience,Norte,Culiacan,Jalisco,142,2018-09-15
+77,T1077,CompraFácil Queretaro,CompraFácil,Convenience,Norte,Queretaro,Jalisco,190,2022-01-24
+78,T1078,MercadoPlus Mexicali,MercadoPlus,Hiper,Este,Mexicali,Guanajuato,2497,2018-09-28
+79,T1079,SuperMax San Luis Potosi,SuperMax,Express,Bajío,San Luis Potosi,Jalisco,764,2019-09-22
+80,T1080,SuperMax Puebla,SuperMax,Convenience,Norte,Puebla,Jalisco,168,2018-05-23
+81,T1081,SuperMax San Luis Potosi,SuperMax,Express,Este,San Luis Potosi,Guanajuato,721,2020-03-20
+82,T1082,TiendaFresh Torreon,TiendaFresh,Convenience,Este,Torreon,Puebla,166,2015-09-27
+83,T1083,MercadoPlus Culiacan,MercadoPlus,Convenience,Sur,Culiacan,Veracruz,84,2016-03-23
+84,T1084,SuperMax Culiacan,SuperMax,Hiper,Este,Culiacan,Nuevo León,3094,2023-08-06
+85,T1085,SuperMax Tlalnepantla,SuperMax,Hiper,Bajío,Tlalnepantla,Nuevo León,4375,2023-08-22
+86,T1086,CompraFácil Mexicali,CompraFácil,Express,Este,Mexicali,Veracruz,553,2016-06-05
+87,T1087,TiendaFresh Juarez,TiendaFresh,Convenience,Este,Juarez,Nuevo León,111,2023-11-23
+88,T1088,CompraFácil Merida,CompraFácil,Express,Este,Merida,CDMX,684,2019-04-04
+89,T1089,CompraFácil Tijuana,CompraFácil,Convenience,Bajío,Tijuana,Michoacán,176,2020-09-22
+90,T1090,SuperMax Merida,SuperMax,Express,Oeste,Merida,Veracruz,302,2019-02-04
+91,T1091,CompraFácil Mexico DF,CompraFácil,Super,Oeste,Mexico DF,Puebla,1095,2020-12-17
+92,T1092,CompraFácil Queretaro,CompraFácil,Express,Norte,Queretaro,Puebla,546,2020-01-27
+93,T1093,CompraFácil Acapulco,CompraFácil,Super,Centro,Acapulco,Michoacán,1578,2021-12-26
+94,T1094,TiendaFresh Cancun,TiendaFresh,Convenience,Oeste,Cancun,CDMX,67,2017-10-07
+95,T1095,MercadoPlus Monterrey,MercadoPlus,Hiper,Sur,Monterrey,Guanajuato,3777,2022-06-28
+96,T1096,SuperMax San Luis Potosi,SuperMax,Super,Este,San Luis Potosi,Jalisco,859,2020-01-29
+97,T1097,SuperMax Aguascalientes,SuperMax,Hiper,Norte,Aguascalientes,Nuevo León,3535,2019-03-09
+98,T1098,CompraFácil Saltillo,CompraFácil,Express,Sur,Saltillo,Veracruz,779,2024-04-22
+99,T1099,MercadoPlus Cancun,MercadoPlus,Express,Sur,Cancun,CDMX,591,2016-01-13
+100,T1100,MercadoPlus Torreon,MercadoPlus,Convenience,Oeste,Torreon,Jalisco,168,2024-08-26
+101,T1101,TiendaFresh Mexico DF,TiendaFresh,Convenience,Centro,Mexico DF,Guanajuato,169,2018-03-19
+102,T1102,TiendaFresh Aguascalientes,TiendaFresh,Express,Norte,Aguascalientes,Puebla,506,2016-01-14
+103,T1103,CompraFácil San Luis Potosi,CompraFácil,Hiper,Este,San Luis Potosi,Michoacán,2815,2022-08-08
+104,T1104,CompraFácil Morelia,CompraFácil,Convenience,Norte,Morelia,Jalisco,196,2021-06-01
+105,T1105,TiendaFresh Mexico DF,TiendaFresh,Hiper,Bajío,Mexico DF,Nuevo León,4696,2021-06-26
+106,T1106,CompraFácil Guadalajara,CompraFácil,Hiper,Norte,Guadalajara,Veracruz,4483,2023-05-26
+107,T1107,CompraFácil Aguascalientes,CompraFácil,Hiper,Sur,Aguascalientes,Veracruz,2897,2016-02-23
+108,T1108,MercadoPlus Tijuana,MercadoPlus,Hiper,Bajío,Tijuana,Michoacán,4573,2018-04-23
+109,T1109,SuperMax Hermosillo,SuperMax,Super,Centro,Hermosillo,Michoacán,868,2017-03-30
+110,T1110,TiendaFresh Merida,TiendaFresh,Express,Norte,Merida,Nuevo León,625,2022-12-04
+111,T1111,MercadoPlus Acapulco,MercadoPlus,Express,Sur,Acapulco,Michoacán,574,2017-04-04
+112,T1112,TiendaFresh Mexicali,TiendaFresh,Express,Centro,Mexicali,Michoacán,502,2023-10-22
+113,T1113,TiendaFresh Tijuana,TiendaFresh,Super,Este,Tijuana,CDMX,1262,2015-12-17
+114,T1114,CompraFácil Morelia,CompraFácil,Hiper,Norte,Morelia,Michoacán,2057,2021-10-29
+115,T1115,TiendaFresh Queretaro,TiendaFresh,Super,Este,Queretaro,Nuevo León,1997,2018-05-07
+116,T1116,CompraFácil Torreon,CompraFácil,Hiper,Norte,Torreon,Guanajuato,3931,2021-09-24
+117,T1117,SuperMax Monterrey,SuperMax,Hiper,Oeste,Monterrey,Jalisco,4602,2020-08-20
+118,T1118,CompraFácil Puebla,CompraFácil,Hiper,Bajío,Puebla,Puebla,2572,2020-02-21
+119,T1119,SuperMax Puebla,SuperMax,Super,Centro,Puebla,Puebla,999,2020-08-25
+120,T1120,MercadoPlus Aguascalientes,MercadoPlus,Express,Este,Aguascalientes,Puebla,753,2022-04-23
+121,T1121,CompraFácil Puebla,CompraFácil,Express,Este,Puebla,Guanajuato,701,2018-10-14
+122,T1122,CompraFácil Aguascalientes,CompraFácil,Hiper,Norte,Aguascalientes,Guanajuato,2889,2022-08-23
+123,T1123,CompraFácil Aguascalientes,CompraFácil,Convenience,Sur,Aguascalientes,Michoacán,75,2018-05-04
+124,T1124,TiendaFresh Queretaro,TiendaFresh,Hiper,Norte,Queretaro,Puebla,2777,2016-07-03
+125,T1125,SuperMax Juarez,SuperMax,Convenience,Norte,Juarez,Guanajuato,55,2016-05-15
+126,T1126,SuperMax Tlalnepantla,SuperMax,Hiper,Sur,Tlalnepantla,Jalisco,2840,2022-01-27
+127,T1127,SuperMax Torreon,SuperMax,Express,Oeste,Torreon,Jalisco,536,2024-06-21
+128,T1128,MercadoPlus Tijuana,MercadoPlus,Super,Centro,Tijuana,Michoacán,1066,2018-01-01
+129,T1129,TiendaFresh Mexico DF,TiendaFresh,Express,Norte,Mexico DF,Guanajuato,334,2022-04-03
+130,T1130,SuperMax Merida,SuperMax,Hiper,Sur,Merida,Veracruz,2064,2017-11-13
+131,T1131,MercadoPlus Saltillo,MercadoPlus,Hiper,Norte,Saltillo,Jalisco,4154,2016-10-23
+132,T1132,SuperMax Aguascalientes,SuperMax,Super,Este,Aguascalientes,Puebla,1851,2017-07-27
+133,T1133,SuperMax Cancun,SuperMax,Convenience,Oeste,Cancun,Jalisco,61,2020-03-22
+134,T1134,TiendaFresh Guadalajara,TiendaFresh,Convenience,Bajío,Guadalajara,CDMX,172,2021-10-15
+135,T1135,CompraFácil Mexicali,CompraFácil,Convenience,Bajío,Mexicali,CDMX,163,2016-08-28
+136,T1136,SuperMax Tijuana,SuperMax,Super,Centro,Tijuana,Veracruz,934,2020-04-28
+137,T1137,MercadoPlus Tlalnepantla,MercadoPlus,Hiper,Oeste,Tlalnepantla,Guanajuato,4246,2022-04-22
+138,T1138,TiendaFresh San Luis Potosi,TiendaFresh,Convenience,Oeste,San Luis Potosi,Veracruz,166,2016-11-21
+139,T1139,CompraFácil Acapulco,CompraFácil,Super,Bajío,Acapulco,CDMX,1240,2021-09-04
+140,T1140,CompraFácil Merida,CompraFácil,Convenience,Sur,Merida,Puebla,166,2021-08-01
+141,T1141,CompraFácil Merida,CompraFácil,Convenience,Bajío,Merida,CDMX,159,2018-05-12
+142,T1142,TiendaFresh Mexicali,TiendaFresh,Hiper,Centro,Mexicali,Jalisco,2274,2020-05-30
+143,T1143,SuperMax Puebla,SuperMax,Super,Norte,Puebla,Puebla,1563,2017-05-04
+144,T1144,MercadoPlus Acapulco,MercadoPlus,Super,Oeste,Acapulco,Veracruz,1475,2018-03-18
+145,T1145,SuperMax Saltillo,SuperMax,Convenience,Centro,Saltillo,Michoacán,63,2018-03-30
+146,T1146,TiendaFresh Tlalnepantla,TiendaFresh,Hiper,Centro,Tlalnepantla,CDMX,4078,2016-07-05
+147,T1147,MercadoPlus Torreon,MercadoPlus,Express,Bajío,Torreon,Puebla,310,2018-08-22
+148,T1148,TiendaFresh Queretaro,TiendaFresh,Hiper,Norte,Queretaro,Michoacán,4351,2022-07-04
+149,T1149,MercadoPlus Cancun,MercadoPlus,Convenience,Oeste,Cancun,Michoacán,192,2020-03-30
+150,T1150,SuperMax Queretaro,SuperMax,Hiper,Norte,Queretaro,Jalisco,4878,2016-12-06
+151,T1151,TiendaFresh Leon,TiendaFresh,Hiper,Centro,Leon,CDMX,2586,2020-01-17
+152,T1152,CompraFácil Mexico DF,CompraFácil,Super,Sur,Mexico DF,Guanajuato,987,2015-10-21
+153,T1153,MercadoPlus Merida,MercadoPlus,Convenience,Este,Merida,Puebla,90,2022-05-13
+154,T1154,TiendaFresh Tlalnepantla,TiendaFresh,Hiper,Bajío,Tlalnepantla,Nuevo León,4442,2017-05-12
+155,T1155,SuperMax Cancun,SuperMax,Super,Sur,Cancun,Jalisco,901,2020-12-04
+156,T1156,SuperMax Saltillo,SuperMax,Hiper,Este,Saltillo,Guanajuato,3989,2015-12-16
+157,T1157,CompraFácil Culiacan,CompraFácil,Convenience,Centro,Culiacan,Jalisco,79,2023-03-09
+158,T1158,TiendaFresh Tlalnepantla,TiendaFresh,Convenience,Norte,Tlalnepantla,Nuevo León,174,2021-09-25
+159,T1159,TiendaFresh Cancun,TiendaFresh,Super,Sur,Cancun,Puebla,912,2023-06-26
+160,T1160,SuperMax Tijuana,SuperMax,Express,Centro,Tijuana,Jalisco,461,2016-08-15
+161,T1161,TiendaFresh Mexicali,TiendaFresh,Hiper,Norte,Mexicali,CDMX,3763,2017-11-07
+162,T1162,MercadoPlus Torreon,MercadoPlus,Express,Este,Torreon,Veracruz,712,2023-02-03
+163,T1163,TiendaFresh Guadalajara,TiendaFresh,Super,Este,Guadalajara,Michoacán,1693,2022-05-09
+164,T1164,SuperMax Merida,SuperMax,Convenience,Norte,Merida,Michoacán,197,2020-06-04
+165,T1165,CompraFácil Saltillo,CompraFácil,Convenience,Bajío,Saltillo,Guanajuato,124,2023-11-24
+166,T1166,SuperMax Leon,SuperMax,Convenience,Norte,Leon,Nuevo León,167,2023-05-14
+167,T1167,TiendaFresh Puebla,TiendaFresh,Super,Este,Puebla,Michoacán,1298,2019-03-19
+168,T1168,CompraFácil Morelia,CompraFácil,Convenience,Oeste,Morelia,CDMX,129,2024-05-13
+169,T1169,TiendaFresh Leon,TiendaFresh,Express,Centro,Leon,Michoacán,278,2017-12-14
+170,T1170,SuperMax Tijuana,SuperMax,Express,Centro,Tijuana,Nuevo León,441,2020-01-09
+171,T1171,SuperMax Leon,SuperMax,Express,Centro,Leon,Jalisco,356,2020-02-25
+172,T1172,SuperMax Hermosillo,SuperMax,Express,Bajío,Hermosillo,Puebla,777,2018-11-11
+173,T1173,CompraFácil Tijuana,CompraFácil,Hiper,Bajío,Tijuana,Nuevo León,3801,2023-09-22
+174,T1174,SuperMax San Luis Potosi,SuperMax,Convenience,Este,San Luis Potosi,Guanajuato,120,2019-01-07
+175,T1175,SuperMax San Luis Potosi,SuperMax,Hiper,Oeste,San Luis Potosi,CDMX,3891,2020-02-26
+176,T1176,CompraFácil San Luis Potosi,CompraFácil,Super,Norte,San Luis Potosi,Nuevo León,957,2017-11-12
+177,T1177,SuperMax Acapulco,SuperMax,Convenience,Este,Acapulco,Veracruz,60,2016-06-27
+178,T1178,CompraFácil Mexicali,CompraFácil,Express,Centro,Mexicali,Veracruz,713,2021-03-05
+179,T1179,MercadoPlus Merida,MercadoPlus,Super,Este,Merida,CDMX,972,2019-08-11
+180,T1180,MercadoPlus Hermosillo,MercadoPlus,Super,Sur,Hermosillo,Guanajuato,1699,2023-09-10
+181,T1181,MercadoPlus Morelia,MercadoPlus,Hiper,Centro,Morelia,Nuevo León,3674,2022-05-05
+182,T1182,TiendaFresh Merida,TiendaFresh,Super,Bajío,Merida,Guanajuato,934,2019-08-02
+183,T1183,TiendaFresh Morelia,TiendaFresh,Super,Oeste,Morelia,Guanajuato,1381,2017-08-28
+184,T1184,TiendaFresh Tlalnepantla,TiendaFresh,Express,Centro,Tlalnepantla,CDMX,344,2018-08-10
+185,T1185,TiendaFresh Morelia,TiendaFresh,Hiper,Bajío,Morelia,Guanajuato,2528,2016-12-23
+186,T1186,SuperMax Merida,SuperMax,Hiper,Oeste,Merida,Puebla,2523,2023-05-16
+187,T1187,SuperMax Mexico DF,SuperMax,Convenience,Oeste,Mexico DF,Nuevo León,142,2022-10-19
+188,T1188,TiendaFresh Mexicali,TiendaFresh,Express,Sur,Mexicali,Nuevo León,396,2017-03-26
+189,T1189,MercadoPlus San Luis Potosi,MercadoPlus,Express,Sur,San Luis Potosi,CDMX,303,2023-01-08
+190,T1190,SuperMax Cancun,SuperMax,Hiper,Oeste,Cancun,Jalisco,3543,2022-08-30
+191,T1191,MercadoPlus Cancun,MercadoPlus,Express,Sur,Cancun,Michoacán,369,2018-05-23
+192,T1192,CompraFácil Torreon,CompraFácil,Super,Este,Torreon,Nuevo León,1709,2023-11-27
+193,T1193,TiendaFresh Torreon,TiendaFresh,Convenience,Sur,Torreon,Veracruz,129,2017-06-07
+194,T1194,CompraFácil Tlalnepantla,CompraFácil,Express,Centro,Tlalnepantla,Guanajuato,651,2022-12-01
+195,T1195,CompraFácil Culiacan,CompraFácil,Hiper,Este,Culiacan,Veracruz,3714,2024-06-06
+196,T1196,MercadoPlus Queretaro,MercadoPlus,Express,Oeste,Queretaro,Jalisco,253,2016-07-20
+197,T1197,CompraFácil Culiacan,CompraFácil,Hiper,Oeste,Culiacan,CDMX,2510,2020-09-15
+198,T1198,TiendaFresh Hermosillo,TiendaFresh,Super,Sur,Hermosillo,Nuevo León,1851,2018-10-28
+199,T1199,MercadoPlus Hermosillo,MercadoPlus,Convenience,Norte,Hermosillo,Jalisco,139,2022-09-17
+200,T1200,SuperMax Culiacan,SuperMax,Convenience,Norte,Culiacan,Puebla,145,2016-02-07
+201,T1201,MercadoPlus Torreon,MercadoPlus,Convenience,Norte,Torreon,Nuevo León,57,2017-01-14
+202,T1202,TiendaFresh Merida,TiendaFresh,Super,Bajío,Merida,Guanajuato,1099,2017-08-16
+203,T1203,MercadoPlus Mexicali,MercadoPlus,Super,Centro,Mexicali,Michoacán,1084,2016-11-13
+204,T1204,CompraFácil Monterrey,CompraFácil,Convenience,Oeste,Monterrey,CDMX,54,2021-07-23
+205,T1205,TiendaFresh Cancun,TiendaFresh,Express,Sur,Cancun,Veracruz,740,2024-09-03
+206,T1206,CompraFácil San Luis Potosi,CompraFácil,Super,Centro,San Luis Potosi,Jalisco,1049,2016-09-12
+207,T1207,SuperMax Cancun,SuperMax,Express,Este,Cancun,Guanajuato,668,2024-04-01
+208,T1208,SuperMax Acapulco,SuperMax,Super,Este,Acapulco,Veracruz,833,2019-05-10
+209,T1209,MercadoPlus Mexico DF,MercadoPlus,Express,Centro,Mexico DF,Puebla,561,2019-11-16
+210,T1210,MercadoPlus Monterrey,MercadoPlus,Convenience,Sur,Monterrey,Guanajuato,184,2023-07-21
+211,T1211,TiendaFresh Culiacan,TiendaFresh,Super,Oeste,Culiacan,Veracruz,1839,2023-12-08
+212,T1212,SuperMax Morelia,SuperMax,Convenience,Este,Morelia,CDMX,145,2018-09-02
+213,T1213,TiendaFresh Monterrey,TiendaFresh,Super,Centro,Monterrey,Michoacán,1506,2020-12-09
+214,T1214,MercadoPlus Merida,MercadoPlus,Super,Oeste,Merida,Guanajuato,1073,2018-01-23
+215,T1215,SuperMax Leon,SuperMax,Hiper,Oeste,Leon,Nuevo León,4804,2018-08-10
+216,T1216,CompraFácil Tijuana,CompraFácil,Convenience,Bajío,Tijuana,Jalisco,66,2015-12-28
+217,T1217,CompraFácil Guadalajara,CompraFácil,Super,Centro,Guadalajara,Jalisco,1208,2018-04-05
+218,T1218,SuperMax Morelia,SuperMax,Hiper,Centro,Morelia,Veracruz,4224,2024-02-05
+219,T1219,CompraFácil Juarez,CompraFácil,Hiper,Norte,Juarez,Michoacán,3171,2021-05-07
+220,T1220,TiendaFresh Queretaro,TiendaFresh,Super,Bajío,Queretaro,Nuevo León,1054,2021-08-14
+221,T1221,TiendaFresh Hermosillo,TiendaFresh,Convenience,Este,Hermosillo,Guanajuato,148,2022-09-19
+222,T1222,TiendaFresh Mexicali,TiendaFresh,Express,Este,Mexicali,Guanajuato,576,2015-09-23
+223,T1223,TiendaFresh Monterrey,TiendaFresh,Super,Bajío,Monterrey,Puebla,1681,2024-07-23
+224,T1224,MercadoPlus Monterrey,MercadoPlus,Hiper,Centro,Monterrey,CDMX,3343,2020-07-23
+225,T1225,TiendaFresh Saltillo,TiendaFresh,Hiper,Este,Saltillo,Veracruz,2682,2021-02-12
+226,T1226,CompraFácil Aguascalientes,CompraFácil,Hiper,Este,Aguascalientes,CDMX,4518,2017-05-07
+227,T1227,CompraFácil Guadalajara,CompraFácil,Hiper,Bajío,Guadalajara,Michoacán,2307,2021-10-08
+228,T1228,CompraFácil Leon,CompraFácil,Hiper,Oeste,Leon,Michoacán,2127,2019-01-15
+229,T1229,MercadoPlus Monterrey,MercadoPlus,Convenience,Norte,Monterrey,Jalisco,110,2022-05-07
+230,T1230,TiendaFresh Guadalajara,TiendaFresh,Hiper,Este,Guadalajara,Veracruz,4478,2022-03-14
+231,T1231,MercadoPlus Hermosillo,MercadoPlus,Convenience,Centro,Hermosillo,Nuevo León,69,2024-08-24
+232,T1232,MercadoPlus Queretaro,MercadoPlus,Hiper,Este,Queretaro,Nuevo León,3022,2018-01-13
+233,T1233,SuperMax Mexicali,SuperMax,Super,Bajío,Mexicali,Jalisco,1860,2018-04-20
+234,T1234,CompraFácil Queretaro,CompraFácil,Super,Centro,Queretaro,Michoacán,1713,2020-11-27
+235,T1235,MercadoPlus Juarez,MercadoPlus,Hiper,Bajío,Juarez,Puebla,2502,2022-01-14
+236,T1236,MercadoPlus Hermosillo,MercadoPlus,Super,Este,Hermosillo,Jalisco,979,2019-07-24
+237,T1237,TiendaFresh Acapulco,TiendaFresh,Hiper,Bajío,Acapulco,CDMX,4220,2017-02-28
+238,T1238,TiendaFresh Leon,TiendaFresh,Hiper,Sur,Leon,Guanajuato,3480,2019-01-30
+239,T1239,MercadoPlus Tijuana,MercadoPlus,Super,Sur,Tijuana,Michoacán,1284,2022-11-26
+240,T1240,CompraFácil Tlalnepantla,CompraFácil,Super,Centro,Tlalnepantla,Veracruz,1555,2018-06-06
+241,T1241,CompraFácil Monterrey,CompraFácil,Express,Oeste,Monterrey,CDMX,516,2016-09-04
+242,T1242,CompraFácil Saltillo,CompraFácil,Convenience,Oeste,Saltillo,Puebla,197,2018-11-28
+243,T1243,SuperMax Monterrey,SuperMax,Express,Centro,Monterrey,Guanajuato,660,2021-07-09
+244,T1244,CompraFácil Acapulco,CompraFácil,Hiper,Sur,Acapulco,Michoacán,4620,2017-04-07
+245,T1245,MercadoPlus Guadalajara,MercadoPlus,Express,Este,Guadalajara,Veracruz,327,2020-10-13
+246,T1246,MercadoPlus Merida,MercadoPlus,Hiper,Sur,Merida,Jalisco,4905,2018-09-27
+247,T1247,MercadoPlus Monterrey,MercadoPlus,Hiper,Oeste,Monterrey,Nuevo León,3026,2021-11-14
+248,T1248,MercadoPlus San Luis Potosi,MercadoPlus,Hiper,Sur,San Luis Potosi,Guanajuato,4516,2017-06-26
+249,T1249,SuperMax Tijuana,SuperMax,Express,Oeste,Tijuana,Veracruz,375,2018-06-02
+250,T1250,TiendaFresh Guadalajara,TiendaFresh,Super,Norte,Guadalajara,CDMX,1981,2021-11-08
+251,T1251,TiendaFresh Cancun,TiendaFresh,Express,Oeste,Cancun,Puebla,231,2022-06-04
+252,T1252,CompraFácil Mexicali,CompraFácil,Hiper,Bajío,Mexicali,Nuevo León,3003,2022-03-31
+253,T1253,CompraFácil Guadalajara,CompraFácil,Hiper,Este,Guadalajara,CDMX,2647,2019-06-13
+254,T1254,CompraFácil Juarez,CompraFácil,Convenience,Este,Juarez,Puebla,137,2015-09-19
+255,T1255,MercadoPlus Aguascalientes,MercadoPlus,Hiper,Bajío,Aguascalientes,Nuevo León,3633,2021-11-25
+256,T1256,MercadoPlus Puebla,MercadoPlus,Hiper,Oeste,Puebla,Veracruz,3307,2016-01-05
+257,T1257,MercadoPlus Hermosillo,MercadoPlus,Convenience,Norte,Hermosillo,Nuevo León,113,2017-07-28
+258,T1258,MercadoPlus Morelia,MercadoPlus,Super,Norte,Morelia,Nuevo León,1656,2016-06-24
+259,T1259,MercadoPlus Merida,MercadoPlus,Express,Centro,Merida,Veracruz,394,2017-11-29
+260,T1260,MercadoPlus Mexicali,MercadoPlus,Convenience,Oeste,Mexicali,Puebla,128,2022-04-01
+261,T1261,CompraFácil Culiacan,CompraFácil,Super,Norte,Culiacan,Puebla,1736,2019-04-30
+262,T1262,MercadoPlus Guadalajara,MercadoPlus,Express,Oeste,Guadalajara,Nuevo León,251,2022-03-31
+263,T1263,TiendaFresh Mexicali,TiendaFresh,Convenience,Oeste,Mexicali,Michoacán,123,2019-05-03
+264,T1264,SuperMax Queretaro,SuperMax,Super,Este,Queretaro,Jalisco,1549,2016-09-22
+265,T1265,CompraFácil Guadalajara,CompraFácil,Hiper,Norte,Guadalajara,Puebla,4335,2022-05-26
+266,T1266,MercadoPlus Monterrey,MercadoPlus,Hiper,Oeste,Monterrey,Nuevo León,3582,2016-01-18
+267,T1267,CompraFácil Cancun,CompraFácil,Hiper,Oeste,Cancun,Guanajuato,2486,2023-05-22
+268,T1268,MercadoPlus Merida,MercadoPlus,Super,Este,Merida,Nuevo León,1942,2021-02-10
+269,T1269,TiendaFresh Culiacan,TiendaFresh,Express,Sur,Culiacan,Veracruz,611,2018-05-31
+270,T1270,SuperMax Merida,SuperMax,Super,Norte,Merida,Jalisco,1770,2023-04-17
+271,T1271,CompraFácil Tijuana,CompraFácil,Express,Oeste,Tijuana,Veracruz,535,2022-09-03
+272,T1272,TiendaFresh San Luis Potosi,TiendaFresh,Express,Este,San Luis Potosi,Veracruz,544,2019-09-15
+273,T1273,CompraFácil Mexico DF,CompraFácil,Hiper,Este,Mexico DF,Michoacán,3508,2021-01-20
+274,T1274,TiendaFresh San Luis Potosi,TiendaFresh,Super,Este,San Luis Potosi,Veracruz,854,2024-01-01
+275,T1275,CompraFácil Tlalnepantla,CompraFácil,Hiper,Bajío,Tlalnepantla,Michoacán,4365,2016-06-22
+276,T1276,MercadoPlus Leon,MercadoPlus,Super,Oeste,Leon,Puebla,1873,2023-12-25
+277,T1277,CompraFácil Guadalajara,CompraFácil,Express,Bajío,Guadalajara,Jalisco,786,2023-07-04
+278,T1278,SuperMax Merida,SuperMax,Express,Norte,Merida,Puebla,628,2020-05-22
+279,T1279,MercadoPlus Saltillo,MercadoPlus,Convenience,Bajío,Saltillo,Jalisco,178,2019-03-18
+280,T1280,CompraFácil Culiacan,CompraFácil,Super,Bajío,Culiacan,Jalisco,1224,2016-03-09
+281,T1281,TiendaFresh Merida,TiendaFresh,Convenience,Oeste,Merida,Puebla,94,2020-02-09
+282,T1282,CompraFácil Queretaro,CompraFácil,Hiper,Oeste,Queretaro,Nuevo León,4498,2022-10-24
+283,T1283,CompraFácil Acapulco,CompraFácil,Express,Sur,Acapulco,Nuevo León,505,2020-09-08
+284,T1284,MercadoPlus Juarez,MercadoPlus,Hiper,Centro,Juarez,Guanajuato,4827,2016-08-30
+285,T1285,CompraFácil Acapulco,CompraFácil,Hiper,Este,Acapulco,Nuevo León,4955,2021-11-01
+286,T1286,TiendaFresh Acapulco,TiendaFresh,Hiper,Norte,Acapulco,Veracruz,3555,2018-08-16
+287,T1287,CompraFácil Guadalajara,CompraFácil,Hiper,Sur,Guadalajara,Nuevo León,3178,2022-05-20
+288,T1288,SuperMax Queretaro,SuperMax,Hiper,Este,Queretaro,Guanajuato,3962,2020-10-11
+289,T1289,MercadoPlus Acapulco,MercadoPlus,Express,Oeste,Acapulco,Nuevo León,478,2016-01-02
+290,T1290,MercadoPlus Tlalnepantla,MercadoPlus,Super,Oeste,Tlalnepantla,Guanajuato,1290,2020-02-10
+291,T1291,MercadoPlus Torreon,MercadoPlus,Super,Bajío,Torreon,Veracruz,1276,2022-06-17
+292,T1292,SuperMax Mexicali,SuperMax,Super,Este,Mexicali,Nuevo León,1005,2016-10-16
+293,T1293,MercadoPlus Saltillo,MercadoPlus,Super,Oeste,Saltillo,Jalisco,1774,2017-04-02
+294,T1294,CompraFácil San Luis Potosi,CompraFácil,Express,Centro,San Luis Potosi,Nuevo León,260,2020-12-07
+295,T1295,SuperMax Guadalajara,SuperMax,Express,Oeste,Guadalajara,Guanajuato,379,2019-11-23
+296,T1296,CompraFácil Morelia,CompraFácil,Express,Norte,Morelia,Michoacán,707,2022-11-27
+297,T1297,MercadoPlus San Luis Potosi,MercadoPlus,Hiper,Norte,San Luis Potosi,CDMX,4326,2020-03-09
+298,T1298,SuperMax Acapulco,SuperMax,Hiper,Centro,Acapulco,Puebla,4147,2019-05-31
+299,T1299,CompraFácil Queretaro,CompraFácil,Express,Oeste,Queretaro,Puebla,397,2021-05-18
+300,T1300,SuperMax Hermosillo,SuperMax,Hiper,Sur,Hermosillo,Guanajuato,4655,2020-09-18
+301,T1301,TiendaFresh Merida,TiendaFresh,Express,Norte,Merida,Guanajuato,502,2016-11-13
+302,T1302,MercadoPlus Morelia,MercadoPlus,Express,Oeste,Morelia,Michoacán,637,2023-10-11
+303,T1303,TiendaFresh Puebla,TiendaFresh,Super,Este,Puebla,Guanajuato,1178,2017-08-05
+304,T1304,MercadoPlus Mexico DF,MercadoPlus,Convenience,Centro,Mexico DF,Jalisco,116,2022-10-10
+305,T1305,CompraFácil Queretaro,CompraFácil,Express,Este,Queretaro,Michoacán,537,2016-08-18
+306,T1306,TiendaFresh Aguascalientes,TiendaFresh,Super,Centro,Aguascalientes,Guanajuato,1283,2024-04-03
+307,T1307,SuperMax Leon,SuperMax,Super,Este,Leon,Nuevo León,1630,2020-08-18
+308,T1308,TiendaFresh Aguascalientes,TiendaFresh,Super,Bajío,Aguascalientes,Nuevo León,1252,2020-07-25
+309,T1309,MercadoPlus Hermosillo,MercadoPlus,Express,Este,Hermosillo,Jalisco,582,2021-08-01
+310,T1310,CompraFácil Juarez,CompraFácil,Convenience,Oeste,Juarez,Michoacán,113,2018-04-19
+311,T1311,SuperMax Aguascalientes,SuperMax,Convenience,Oeste,Aguascalientes,Guanajuato,69,2023-05-28
+312,T1312,SuperMax Juarez,SuperMax,Super,Oeste,Juarez,Veracruz,1972,2023-05-02
+313,T1313,MercadoPlus Culiacan,MercadoPlus,Express,Centro,Culiacan,Michoacán,652,2016-03-08
+314,T1314,SuperMax Mexicali,SuperMax,Express,Bajío,Mexicali,Veracruz,293,2022-12-17
+315,T1315,CompraFácil Culiacan,CompraFácil,Super,Este,Culiacan,Jalisco,1650,2023-01-26
+316,T1316,CompraFácil San Luis Potosi,CompraFácil,Super,Oeste,San Luis Potosi,Puebla,844,2016-01-06
+317,T1317,CompraFácil Juarez,CompraFácil,Hiper,Norte,Juarez,Guanajuato,4368,2018-04-14
+318,T1318,SuperMax Monterrey,SuperMax,Super,Este,Monterrey,Nuevo León,1908,2017-06-03
+319,T1319,SuperMax San Luis Potosi,SuperMax,Super,Este,San Luis Potosi,CDMX,1637,2018-11-26
+320,T1320,MercadoPlus Saltillo,MercadoPlus,Express,Bajío,Saltillo,Guanajuato,583,2018-04-21
+321,T1321,CompraFácil Monterrey,CompraFácil,Convenience,Este,Monterrey,Puebla,188,2017-10-12
+322,T1322,MercadoPlus Acapulco,MercadoPlus,Hiper,Norte,Acapulco,Jalisco,3609,2022-01-24
+323,T1323,MercadoPlus Mexico DF,MercadoPlus,Express,Norte,Mexico DF,Michoacán,505,2016-11-27
+324,T1324,CompraFácil Torreon,CompraFácil,Convenience,Oeste,Torreon,Puebla,113,2020-08-05
+325,T1325,CompraFácil Juarez,CompraFácil,Hiper,Sur,Juarez,Nuevo León,4969,2018-10-16
