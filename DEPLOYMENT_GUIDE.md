@@ -234,46 +234,7 @@ aws rds modify-db-instance \
     --performance-insights-retention-period 7
 ```
 
-## 📧 Paso 6: Preparar Información para Reviewer
-
-### Email Template
-
-```
-Asunto: Acceso RDS - Data Engineer II Challenge - [Tu Nombre]
-
-Hola Aaron,
-
-Adjunto la información de acceso para validación del challenge:
-
-**Repositorio GitHub**: [URL_DEL_REPO]
-
-**Acceso RDS**:
-Host: retail-analytics-challenge.xxxxxxxxx.us-east-1.rds.amazonaws.com
-Port: 5432
-Database: retail
-Usuario: kimetrics_reviewer
-Password: [SECURE_PASSWORD]
-
-**Ventana de Validación**: 
-Fecha: [YYYY-MM-DD]
-Hora: 14:00 - 18:00 (America/Mexico_City)
-UTC: 20:00 - 00:00
-
-**Queries de Prueba**:
-- Dashboard ejecutivo: SELECT * FROM retail.mv_daily_sales_summary LIMIT 10;
-- Top productos: SELECT * FROM retail.mv_product_performance WHERE ranking_categoria_mes <= 5;
-- Alertas inventario: SELECT * FROM retail.mv_inventory_alerts WHERE alerta_inventario = 'STOCK_BAJO';
-
-**Notas**:
-- Instancia será eliminada después de la validación
-- CloudWatch logs habilitados con retención de 7 días
-- Performance optimizado con índices y MVs
-
-Saludos,
-[Tu Nombre]
-```
-
-## 🧹 Paso 7: Limpieza Post-Validación
+## 🧹 Paso 6: Limpieza Post-Validación
 
 ### Eliminar Acceso Público
 
@@ -306,22 +267,6 @@ aws rds delete-db-instance \
 
 ## 🔍 Troubleshooting
 
-### Problemas Comunes
-
-1. **Connection Timeout**
-   - Verificar Security Group
-   - Confirmar Public Access habilitado
-   - Revisar VPC/Subnet configuration
-
-2. **Authentication Failed**
-   - Verificar username/password
-   - Confirmar usuario tiene permisos CONNECT
-
-3. **Slow Queries**
-   - Verificar que índices se crearon correctamente
-   - Ejecutar ANALYZE en tablas principales
-   - Revisar Performance Insights
-
 ### Comandos de Diagnóstico
 
 ```sql
@@ -347,20 +292,3 @@ FROM pg_indexes
 WHERE schemaname = 'retail';
 ```
 
-## ✅ Checklist Final
-
-- [ ] Instancia RDS creada y disponible
-- [ ] Security Group configurado correctamente
-- [ ] Esquema y datos cargados completamente
-- [ ] Índices y MVs creados
-- [ ] Usuario reviewer configurado
-- [ ] Consultas de prueba funcionando
-- [ ] CloudWatch logs habilitados
-- [ ] Email con información enviado
-- [ ] Ventana de validación programada
-- [ ] Plan de limpieza post-validación
-
----
-
-**Tiempo estimado de deployment**: 30-45 minutos
-**Costo estimado**: $0 (dentro de Free Tier)
