@@ -369,5 +369,6 @@ Aunque esta solución es robusta, aquí hay algunas vías para su evolución:
 ## 📧 Contacto
 
 **Desarrollado para:** Kimetrics Data Engineer II Challenge
-**Repositorio:** [Pega aquí la URL de tu repositorio de GitHub]
+**Repositorio:** https://github.com/AxelEdgar/kimetrics-data-challenge.git
+
 **Documentación Adicional:** Ver la carpeta `/docs` para detalles técnicos completos.
